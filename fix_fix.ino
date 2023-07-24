@@ -5,8 +5,8 @@
 
 CTBot myBot;
 
- String ssid = "Batada waifi terus";
- String pass = "Aty12345";
+ String ssid = "Masukan Nama Wifi";
+ String pass = "Masukan Pass";
  String token = "6249397233:AAGiLt0zqTK4iOhtv-4_Hd46o5i8swxDwr8";
  const int id = 6132143257;
 
